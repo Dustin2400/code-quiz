@@ -1,0 +1,40 @@
+header {
+    padding: 40px;
+}
+.timer {
+    float: right;
+}
+main{
+    text-align: center;
+}
+.module {
+    width: 30%;
+    margin: 30px auto;
+}
+.button, .answer-choice {
+    color: white;
+    background-color: purple;
+    padding: 5px;
+    margin: 5px auto;
+    width: 150px;
+    border-radius: 5px;
+}
+.answer{
+    color: grey;
+    border-top: 3px grey solid;
+    font-size: 20px;
+}
+ol {
+    margin: 0 auto;
+    width: 75px;
+}
+li {
+    width: 58px;
+    text-align: left;
+    margin: 2px;
+    border-Radius:3px;
+}
+#view-high-scores{
+    text-decoration: underline;
+    color:blueviolet;
+}
