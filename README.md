@@ -3,7 +3,7 @@
 ## Purpose
 A website where aspiring coders can test their knowledge of javascript basics.
 
-![screenshot](./assets/images/code-quiz.jpg)
+![screenshot](./assets/images/screenshot.jpg)
 
 ## Built with
 * HTML
